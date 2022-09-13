@@ -1,0 +1,11 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\bin\Debug\net5.0\Lapicera.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\bin\Debug\net5.0\Lapicera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\bin\Debug\net5.0\ref\Lapicera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\bin\Debug\net5.0\Lapicera.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\obj\Debug\net5.0\Lapicera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\obj\Debug\net5.0\Lapicera.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\obj\Debug\net5.0\Lapicera.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\obj\Debug\net5.0\Lapicera.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\obj\Debug\net5.0\Lapicera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\obj\Debug\net5.0\ref\Lapicera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Lapicera\obj\Debug\net5.0\Lapicera.pdb
